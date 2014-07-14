@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C9660B61-888A-470A-88CE-15B5E046BDD9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>AddSettings</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D00E0A38-6391-425A-A6DB-63F03A5F5B3F</key>
+		<string>https://github.com/StudyClass4iOS/StudyReport.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Setting/AddSettings/AddSettings.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D00E0A38-6391-425A-A6DB-63F03A5F5B3F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/StudyClass4iOS/StudyReport.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D00E0A38-6391-425A-A6DB-63F03A5F5B3F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D00E0A38-6391-425A-A6DB-63F03A5F5B3F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StudyReport</string>
+		</dict>
+	</array>
+</dict>
+</plist>
